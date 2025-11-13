@@ -3,4 +3,4 @@ DTI kNN segmentation: SPD (AIRM, Log-Euclidean), non-SPD, hybrids; α-sweep, k-g
  
 <div align="center">
   <img src="knn.png" alt="Banner do perfil" width="100%">
-</div>  
+</div>
